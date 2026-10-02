@@ -1,0 +1,4 @@
+[core]
+    remote = storage
+['remote "storage"']
+    url = s3://dvc-s3-bucket-recommended-139748777168-ap-south-1-an/dvcstore
